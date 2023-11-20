@@ -1,0 +1,25 @@
+ .modalven {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  
+.titulo
+{
+  display: flex;
+}
+ .contenido{
+  display: flex;
+ }
+ .caja {
+  border-radius: 5px;
+  background-color: rgb(206, 180, 197);
+  height: 300px;
+  width: 400px;
+}
